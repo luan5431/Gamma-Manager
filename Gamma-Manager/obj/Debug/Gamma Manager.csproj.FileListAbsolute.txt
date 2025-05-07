@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\bin\Debug\Gamma Manager.exe.config
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\bin\Debug\Gamma Manager.exe
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\bin\Debug\Gamma Manager.pdb
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma Manager.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma_Manager.Properties.Resources.resources
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma Manager.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma Manager.exe
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma Manager.pdb
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma Ma.17297764.Up2Date
+C:\Users\User\Desktop\Gamma-Manager-1.0-\Gamma Manager\obj\Debug\Gamma_Manager.Window.resources
